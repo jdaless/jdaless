@@ -16,8 +16,9 @@ he/him
 - Blazor
 - Python
 - VB.NET
+- Autodesk Revit
 
 ### 🌐 Languages
 - English (native speaker)
-- Esperanto
+- Esperanto (C1)
 - 中文 (learning)
